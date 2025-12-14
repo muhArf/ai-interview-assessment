@@ -1,15 +1,17 @@
+# requirements.txt
 streamlit
-# Pydub menggantikan Moviepy untuk ekstraksi audio (lebih ringan)
-pydub 
+pydub
 librosa
 noisereduce
-
-# Gunakan paket Whisper standar (openai-whisper) untuk STT
-openai-whisper
-
 sentence-transformers
 scikit-learn
 nltk
 fuzzywuzzy
 python-Levenshtein
 pillow
+# Instal CTranslate2 secara eksplisit (penting untuk faster-whisper)
+ctranslate2
+# Instal faster-whisper dari PyPI jika sudah stabil, atau gunakan link Git
+faster-whisper
+# Jika `faster-whisper` gagal dengan baris di atas, coba ganti dengan:
+# git+https://github.com/SYSTRAN/faster-whisper.git
