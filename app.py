@@ -3,7 +3,7 @@ import pandas as pd
 import json
 import os
 import tempfile
-from moviepy.editor import VideoFileClip # Digunakan untuk ekstraksi audio yang stabil
+
 
 # Import logic dari folder models
 # PASTIKAN FILE-FILE INI ADA DI FOLDER 'models'
