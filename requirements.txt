@@ -1,12 +1,15 @@
 streamlit
-moviepy
+# Hapus moviepy, kita akan gunakan pydub/librosa murni
 pydub
 librosa
 noisereduce
+
+# Ganti faster-whisper dengan paket whisper standar (lebih stabil)
+openai-whisper
+
 sentence-transformers
 scikit-learn
 nltk
 fuzzywuzzy
 python-Levenshtein
 pillow
-# Hapus sementara: git+https://github.com/SYSTRAN/faster-whisper.git
