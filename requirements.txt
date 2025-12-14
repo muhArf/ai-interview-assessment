@@ -1,0 +1,15 @@
+streamlit
+numpy
+pandas
+librosa
+pydub
+soundfile
+noisereduce
+faster-whisper
+sentence-transformers
+scikit-learn
+rapidfuzz
+pyspellchecker
+moviepy
+ffmpeg-python
+jiwer

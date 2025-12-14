@@ -1,0 +1,22 @@
+{
+    "1": {
+        "question": "Can you share any specific challenges you faced while working on certification and how you overcame them?",
+        "key": "q1"
+    },
+    "2": {
+        "question": "Can you describe your experience with transfer learning in TensorFlow? How did it benefit your projects?",
+        "key": "q2"
+    },
+    "3": {
+        "question": "Describe a complex TensorFlow model you have built and the steps you took to ensure its accuracy and efficiency.",
+        "key": "q3"
+    },
+    "4": {
+        "question": "Explain how to implement dropout in a TensorFlow model and the effect it has on training.",
+        "key": "q4"
+    },
+    "5": {
+        "question": "Describe the process of building a convolutional neural network (CNN) using TensorFlow for image classification.",
+        "key": "q5"
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "q1": {
+        "ideal_points": {
+            "4": [
+                "Comprehensive and clear response",
+                "Provides a detailed description of specific challenges encountered during the certification.",
+                "Offers clear explanations of how each challenge was overcome.",
+                "Demonstrates strong understanding of technical aspects and problem-solving skills.",
+                "Response is very clear, well-organized, and reflects on the learning process."
+            ],
+            "3": [
+                "Specific Challenge with Basic Solution",
+                "Describes at least one specific challenge related to building machine learning models with TensorFlow.",
+                "Provides a basic explanation of how the challenge was overcome.",
+                "Explanation may be brief or lack depth.",
+                "Shows some understanding but lacks detailed insight."
+            ],
+            "2": [
+                "General Challenge Mentioned without Details"
+            ],
+            "1": [
+                "Minimal or Vague Response"
+            ],
+            "0": [
+                "Unanswered"
+            ]
+        }
+    },
+    "q2": {
+        "ideal_points": {
+            "4": [
+                "Comprehensive and Very Clear Response.",
+                "Offers a detailed description of personal experience using transfer learning in TensorFlow.",
+                "Provides specific examples of projects and clearly explains the benefits gained.",
+                "Demonstrates strong understanding of transfer learning concepts and their practical application.",
+                "Response is very clear, well-organized, and reflects deep engagement with the subject."
+            ],
+            "3": [
+                "Specific Experience with Basic Explanation.",
+                "Describes personal experience with transfer learning in TensorFlow.",
+                "Provides examples of projects where transfer learning was applied.",
+                "Explains how transfer learning benefited those projects",
+                "Explanation may be brief or lack comprehensive insight."
+            ],
+            "2": [
+                "General Response with Limited Details.",
+                "Mentions transfer learning or TensorFlow in general terms.",
+                "Provides minimal details about personal experience.",
+                "Does not clearly explain how transfer learning benefited projects.",
+                "Shows basic understanding but lacks depth and specificity."
+            ],
+            "1": [
+                "Minimal or Vague Response"
+            ],
+            "0": [
+                "Unanswered"
+            ]
+        }
+    },
+    "q3": {
+        "ideal_points": {
+            "4": [
+                "Comprehensive and Very Clear Response.",
+                "Offers a detailed description of a complex TensorFlow model built.",
+                "Provides specific details about the model's architecture, features, and purpose.",
+                "Clearly explains the steps taken to ensure both accuracy and efficiency, such as data preprocessing, model optimization techniques, regularization methods, and performance tuning.",
+                "Demonstrates strong understanding of TensorFlow and machine learning concepts.",
+                "Response is very clear, well-organized, and reflects deep engagement with the subject."
+            ],
+            "3": [
+                "Specific Model with Basic Explanation.",
+                "Describes a complex TensorFlow model they have built.",
+                "Provides some details about the model's architecture or purpose.",
+                "Explains steps taken to ensure accuracy and efficiency, but may lack depth.",
+                "Explanation may be brief or not fully comprehensive."
+            ],
+            "2": [
+                "General Response with Limited Details",
+                "Mentions building a TensorFlow model in general terms",
+                "Provides minimal details about the model's complexity.",
+                "Does not clearly explain the steps taken to ensure accuracy and efficiency.",
+                "Shows basic understanding but lacks depth and specificity."
+            ],
+            "1": [
+                "Minimal or Vague Response"
+            ],
+            "0": [
+                "Unanswered"
+            ]
+        }
+    },
+    "q4": {
+        "ideal_points": {
+            "4": [
+                "Comprehensive and Very Clear Response.",
+                "Provides a detailed explanation of how to implement dropout in a TensorFlow model, including code examples or specific functions (e.g., using tf.keras.layers.Dropout).",
+                "Clearly explains the effect of dropout on training, such as how it helps prevent overfitting by randomly deactivating neurons during training.",
+                "Discusses the impact on model performance, generalization, and possibly mentions considerations like dropout rates.",
+                "Demonstrates strong understanding of TensorFlow and machine learning concepts.",
+                "Response is very clear, well-organized, and reflects deep engagement with the subject."
+            ],
+            "3": [
+                "Specific Explanation with Basic Understanding",
+                "Explains how to implement dropout in a TensorFlow model with some specifics (e.g., mentions using Dropout layer).",
+                "Describes the general effect of dropout on training, such as preventing overfitting.",
+                "May omit some details about implementation or effects.",
+                "Demonstrates a reasonable understanding but lacks comprehensive insight."
+            ],
+            "2": [
+                "General Response with Limited Details"
+            ],
+            "1": [
+                "Minimal or Vague Response"
+            ],
+            "0": [
+                "Unanswered"
+            ]
+        }
+    },
+    "q5": {
+        "ideal_points": {
+            "4": [
+                "Comprehensive and Very Clear Response",
+                "Provides a detailed, step-by-step description of building a CNN in TensorFlow for image classification.",
+                "Covers all key components, including data loading and preprocessing, defining the CNN layers (convolutional, pooling, activation functions), compiling the model with appropriate loss function and optimizer, training the model, and evaluating performance.",
+                "May include code examples or specific TensorFlow functions used.",
+                "Demonstrates strong understanding of CNNs and TensorFlow.",
+                "Response is very clear, well-organized, and reflects deep engagement with the subject."
+            ],
+            "3": [
+                "Specific Explanation with Basic Understanding",
+                "Describes the process of building a CNN in TensorFlow with some specifics.",
+                "Includes key steps such as data preprocessing, defining the CNN architecture, compiling the model, and training.",
+                "May lack comprehensive detail or omit some important aspects.",
+                "Demonstrates reasonable understanding but may not fully elaborate on each step."
+            ],
+            "2": [
+                "General Response with Limited Details"
+            ],
+            "1": [
+                "Minimal or Vague Response"
+            ],
+            "0": [
+                "Unanswered"
+            ]
+        }
+    }
+}
