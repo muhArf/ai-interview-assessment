@@ -1,15 +1,24 @@
-streamlit
-numpy
-pandas
-librosa
+# Library Streamlit
+streamlit>=1.30.0
+
+# Library STT (Speech-to-Text) - Faster Whisper sangat direkomendasikan
+# Faster Whisper memerlukan PyTorch, tapi Torch sudah disertakan dalam requirements-nya
+git+https://github.com/SYSTRAN/faster-whisper.git
+
+# Library Pemrosesan Audio/Video
+moviepy # Penyebab error Anda
 pydub
-soundfile
+librosa
 noisereduce
-faster-whisper
+
+# Library Text & NLP (untuk Cleaning dan Confidence Score)
 sentence-transformers
 scikit-learn
-rapidfuzz
-pyspellchecker
-moviepy
-ffmpeg-python
-jiwer
+nltk
+fuzzywuzzy
+python-Levenshtein
+
+# Library Tambahan (Penting untuk Dependensi Sistem MoviePy/Librosa)
+numpy
+scipy
+pandas
