@@ -1,5 +1,4 @@
 streamlit
-from moviepy.editor import VideoFileClip
 moviepy
 pydub
 librosa
@@ -9,7 +8,5 @@ scikit-learn
 nltk
 fuzzywuzzy
 python-Levenshtein
-# Ganti URL git dengan nama package jika FasterWhisper tersedia di PyPI, 
-# atau biarkan URL Git di akhir setelah semua package stabil terinstal.
-# Jika Anda tetap ingin menggunakan Faster Whisper:
-git+https://github.com/SYSTRAN/faster-whisper.git
+pillow
+# Hapus sementara: git+https://github.com/SYSTRAN/faster-whisper.git
