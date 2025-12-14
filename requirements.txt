@@ -1,5 +1,5 @@
 streamlit
-# Coba instal moviepy tanpa versi spesifik dulu
+from moviepy.editor import VideoFileClip
 moviepy
 pydub
 librosa
