@@ -8,4 +8,5 @@ scikit-learn
 nltk
 fuzzywuzzy
 python-Levenshtein
+pillow
 git+https://github.com/SYSTRAN/faster-whisper.git
