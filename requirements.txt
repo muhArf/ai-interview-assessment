@@ -1,10 +1,10 @@
 streamlit
-# Hapus moviepy, kita akan gunakan pydub/librosa murni
-pydub
+# Pydub menggantikan Moviepy untuk ekstraksi audio (lebih ringan)
+pydub 
 librosa
 noisereduce
 
-# Ganti faster-whisper dengan paket whisper standar (lebih stabil)
+# Gunakan paket Whisper standar (openai-whisper) untuk STT
 openai-whisper
 
 sentence-transformers
