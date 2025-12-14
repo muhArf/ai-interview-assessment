@@ -1,5 +1,5 @@
 streamlit
-moviepy  
+moviepy
 pydub
 librosa
 noisereduce
